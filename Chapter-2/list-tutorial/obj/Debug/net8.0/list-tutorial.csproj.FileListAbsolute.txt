@@ -1,0 +1,14 @@
+C:\Users\user\Documents\C#\list-tutorial\bin\Debug\net8.0\list-tutorial.exe
+C:\Users\user\Documents\C#\list-tutorial\bin\Debug\net8.0\list-tutorial.deps.json
+C:\Users\user\Documents\C#\list-tutorial\bin\Debug\net8.0\list-tutorial.runtimeconfig.json
+C:\Users\user\Documents\C#\list-tutorial\bin\Debug\net8.0\list-tutorial.dll
+C:\Users\user\Documents\C#\list-tutorial\bin\Debug\net8.0\list-tutorial.pdb
+C:\Users\user\Documents\C#\list-tutorial\obj\Debug\net8.0\list-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\C#\list-tutorial\obj\Debug\net8.0\list-tutorial.AssemblyInfoInputs.cache
+C:\Users\user\Documents\C#\list-tutorial\obj\Debug\net8.0\list-tutorial.AssemblyInfo.cs
+C:\Users\user\Documents\C#\list-tutorial\obj\Debug\net8.0\list-tutorial.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C#\list-tutorial\obj\Debug\net8.0\list-tutorial.dll
+C:\Users\user\Documents\C#\list-tutorial\obj\Debug\net8.0\refint\list-tutorial.dll
+C:\Users\user\Documents\C#\list-tutorial\obj\Debug\net8.0\list-tutorial.pdb
+C:\Users\user\Documents\C#\list-tutorial\obj\Debug\net8.0\list-tutorial.genruntimeconfig.cache
+C:\Users\user\Documents\C#\list-tutorial\obj\Debug\net8.0\ref\list-tutorial.dll

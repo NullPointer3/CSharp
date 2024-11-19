@@ -1,0 +1,11 @@
+C:\Users\user\Documents\CSharp\chapter-5\PacktLibraryModern\bin\Debug\net8.0\PacktLibraryModern.deps.json
+C:\Users\user\Documents\CSharp\chapter-5\PacktLibraryModern\bin\Debug\net8.0\PacktLibraryModern.dll
+C:\Users\user\Documents\CSharp\chapter-5\PacktLibraryModern\bin\Debug\net8.0\PacktLibraryModern.pdb
+C:\Users\user\Documents\CSharp\chapter-5\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\CSharp\chapter-5\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.AssemblyInfoInputs.cache
+C:\Users\user\Documents\CSharp\chapter-5\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.AssemblyInfo.cs
+C:\Users\user\Documents\CSharp\chapter-5\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\CSharp\chapter-5\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.dll
+C:\Users\user\Documents\CSharp\chapter-5\PacktLibraryModern\obj\Debug\net8.0\refint\PacktLibraryModern.dll
+C:\Users\user\Documents\CSharp\chapter-5\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.pdb
+C:\Users\user\Documents\CSharp\chapter-5\PacktLibraryModern\obj\Debug\net8.0\ref\PacktLibraryModern.dll

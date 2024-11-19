@@ -1,0 +1,14 @@
+C:\Users\user\Documents\C#\chapter-4\3.Debugging\bin\Debug\net8.0\3.Debugging.exe
+C:\Users\user\Documents\C#\chapter-4\3.Debugging\bin\Debug\net8.0\3.Debugging.deps.json
+C:\Users\user\Documents\C#\chapter-4\3.Debugging\bin\Debug\net8.0\3.Debugging.runtimeconfig.json
+C:\Users\user\Documents\C#\chapter-4\3.Debugging\bin\Debug\net8.0\3.Debugging.dll
+C:\Users\user\Documents\C#\chapter-4\3.Debugging\bin\Debug\net8.0\3.Debugging.pdb
+C:\Users\user\Documents\C#\chapter-4\3.Debugging\obj\Debug\net8.0\3.Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\C#\chapter-4\3.Debugging\obj\Debug\net8.0\3.Debugging.AssemblyInfoInputs.cache
+C:\Users\user\Documents\C#\chapter-4\3.Debugging\obj\Debug\net8.0\3.Debugging.AssemblyInfo.cs
+C:\Users\user\Documents\C#\chapter-4\3.Debugging\obj\Debug\net8.0\3.Debugging.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C#\chapter-4\3.Debugging\obj\Debug\net8.0\3.Debugging.dll
+C:\Users\user\Documents\C#\chapter-4\3.Debugging\obj\Debug\net8.0\refint\3.Debugging.dll
+C:\Users\user\Documents\C#\chapter-4\3.Debugging\obj\Debug\net8.0\3.Debugging.pdb
+C:\Users\user\Documents\C#\chapter-4\3.Debugging\obj\Debug\net8.0\3.Debugging.genruntimeconfig.cache
+C:\Users\user\Documents\C#\chapter-4\3.Debugging\obj\Debug\net8.0\ref\3.Debugging.dll

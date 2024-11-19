@@ -1,0 +1,14 @@
+C:\Users\user\Documents\C#\AboutMainMethod\bin\Debug\net8.0\AboutMainMethod.exe
+C:\Users\user\Documents\C#\AboutMainMethod\bin\Debug\net8.0\AboutMainMethod.deps.json
+C:\Users\user\Documents\C#\AboutMainMethod\bin\Debug\net8.0\AboutMainMethod.runtimeconfig.json
+C:\Users\user\Documents\C#\AboutMainMethod\bin\Debug\net8.0\AboutMainMethod.dll
+C:\Users\user\Documents\C#\AboutMainMethod\bin\Debug\net8.0\AboutMainMethod.pdb
+C:\Users\user\Documents\C#\AboutMainMethod\obj\Debug\net8.0\AboutMainMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\C#\AboutMainMethod\obj\Debug\net8.0\AboutMainMethod.AssemblyInfoInputs.cache
+C:\Users\user\Documents\C#\AboutMainMethod\obj\Debug\net8.0\AboutMainMethod.AssemblyInfo.cs
+C:\Users\user\Documents\C#\AboutMainMethod\obj\Debug\net8.0\AboutMainMethod.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C#\AboutMainMethod\obj\Debug\net8.0\AboutMainMethod.dll
+C:\Users\user\Documents\C#\AboutMainMethod\obj\Debug\net8.0\refint\AboutMainMethod.dll
+C:\Users\user\Documents\C#\AboutMainMethod\obj\Debug\net8.0\AboutMainMethod.pdb
+C:\Users\user\Documents\C#\AboutMainMethod\obj\Debug\net8.0\AboutMainMethod.genruntimeconfig.cache
+C:\Users\user\Documents\C#\AboutMainMethod\obj\Debug\net8.0\ref\AboutMainMethod.dll
