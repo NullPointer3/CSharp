@@ -17,7 +17,7 @@ Person zillah = new() {Name = "Zillah"};
 lamech.Marry(adah);
 
 // Call static method to marry lamech and zillah
-Person.Marry(lamech, zillah);
+//Person.Marry(lamech, zillah);
 
 lamech.OutputSpouses();
 adah.OutputSpouses();
@@ -42,3 +42,15 @@ for(int i = 0; i < lamech.Children.Count; i++)
 	WriteLine(format: "{0}'s child #{1} is named \"{2}\".", 
 	arg0: lamech.Name, arg1: i, arg2: lamech.Children[i].Name);
 }
+
+// Implementing functionality using operators
+if(lamech + zillah)
+{
+	WriteLine($"{lamech.Name} and {zillah.Name} successfully got married");
+}
+
+// Use the * operator to "multiply".
+Person baby3 = lamech * adah;
+baby3.Name = "Jubal";
+Person baby4 = zillah * lamech;
+baby4.Name = "Naamah";
