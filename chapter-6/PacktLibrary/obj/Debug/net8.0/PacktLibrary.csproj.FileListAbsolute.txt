@@ -5,6 +5,7 @@ C:\Users\user\Documents\CSharp\chapter-6\PacktLibrary\obj\Debug\net8.0\PacktLibr
 C:\Users\user\Documents\CSharp\chapter-6\PacktLibrary\obj\Debug\net8.0\PacktLibrary.AssemblyInfoInputs.cache
 C:\Users\user\Documents\CSharp\chapter-6\PacktLibrary\obj\Debug\net8.0\PacktLibrary.AssemblyInfo.cs
 C:\Users\user\Documents\CSharp\chapter-6\PacktLibrary\obj\Debug\net8.0\PacktLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\CSharp\chapter-6\PacktLibrary\obj\Debug\net8.0\PacktLibrary.sourcelink.json
 C:\Users\user\Documents\CSharp\chapter-6\PacktLibrary\obj\Debug\net8.0\PacktLibrary.dll
 C:\Users\user\Documents\CSharp\chapter-6\PacktLibrary\obj\Debug\net8.0\refint\PacktLibrary.dll
 C:\Users\user\Documents\CSharp\chapter-6\PacktLibrary\obj\Debug\net8.0\PacktLibrary.pdb

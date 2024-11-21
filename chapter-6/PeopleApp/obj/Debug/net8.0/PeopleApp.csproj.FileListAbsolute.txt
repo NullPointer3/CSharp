@@ -10,6 +10,7 @@ C:\Users\user\Documents\CSharp\chapter-6\PeopleApp\obj\Debug\net8.0\PeopleApp.Ge
 C:\Users\user\Documents\CSharp\chapter-6\PeopleApp\obj\Debug\net8.0\PeopleApp.AssemblyInfoInputs.cache
 C:\Users\user\Documents\CSharp\chapter-6\PeopleApp\obj\Debug\net8.0\PeopleApp.AssemblyInfo.cs
 C:\Users\user\Documents\CSharp\chapter-6\PeopleApp\obj\Debug\net8.0\PeopleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\CSharp\chapter-6\PeopleApp\obj\Debug\net8.0\PeopleApp.sourcelink.json
 C:\Users\user\Documents\CSharp\chapter-6\PeopleApp\obj\Debug\net8.0\PeopleApp.csproj.Up2Date
 C:\Users\user\Documents\CSharp\chapter-6\PeopleApp\obj\Debug\net8.0\PeopleApp.dll
 C:\Users\user\Documents\CSharp\chapter-6\PeopleApp\obj\Debug\net8.0\refint\PeopleApp.dll
