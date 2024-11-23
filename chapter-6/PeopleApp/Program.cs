@@ -17,7 +17,7 @@ Person zillah = new() {Name = "Zillah"};
 lamech.Marry(adah);
 
 // Call static method to marry lamech and zillah
-//Person.Marry(lamech, zillah);
+Person.Marry(lamech, zillah);
 
 lamech.OutputSpouses();
 adah.OutputSpouses();
@@ -44,13 +44,40 @@ for(int i = 0; i < lamech.Children.Count; i++)
 }
 
 // Implementing functionality using operators
-if(lamech + zillah)
-{
-	WriteLine($"{lamech.Name} and {zillah.Name} successfully got married");
-}
+// if(lamech + zillah)
+// {
+// 	WriteLine($"{lamech.Name} and {zillah.Name} successfully got married");
+// }
 
-// Use the * operator to "multiply".
-Person baby3 = lamech * adah;
-baby3.Name = "Jubal";
-Person baby4 = zillah * lamech;
-baby4.Name = "Naamah";
+// // Use the * operator to "multiply".
+// Person baby3 = lamech * adah;
+// baby3.Name = "Jubal";
+// Person baby4 = zillah * lamech;
+// baby4.Name = "Naamah";
+
+// Non-generic lookup Collection
+System.Collections.Hashtable lookupObject = new();
+lookupObject.Add(key: 1, value: "Alpha");
+lookupObject.Add(key: 2, value: "Beta");
+lookupObject.Add(key: 3, value: "Gamma");
+lookupObject.Add(key: harry, value: "Delta");
+
+int key = 2;
+WriteLine(format: "Key {0} has value: {1}", arg0: key, arg1: lookupObject[key]);
+WriteLine(format: "Key {0} has value: {1}", arg0: harry, arg1: lookupObject[harry]);
+
+// Using Generic types
+Dictionary<int, string> lookupIntString = new();
+lookupIntString.Add(key: 1, value: "Alpha");
+lookupIntString.Add(key: 2, value: "Beta");
+lookupIntString.Add(key: 3, value: "Omega");
+
+key = 3;
+WriteLine(format: "Key {0} has value: {1}", arg0: key, arg1: lookupIntString[key]);
+
+harry.shout = Harry_shout;
+
+harry.Poke();
+harry.Poke();
+harry.Poke();
+harry.Poke();
