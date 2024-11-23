@@ -81,3 +81,26 @@ harry.Poke();
 harry.Poke();
 harry.Poke();
 harry.Poke();
+
+// Implementing Interfaces
+Person?[] people = 
+[
+  null,
+  new() { Name = "KDB" },
+  new() { Name = "Rodri" },
+  new() { Name = "Foden" },
+  new() { Name = null },
+  new() { Name = "Haaland" }
+];
+
+OutputPeopleNames(people, "Initial List of People");
+
+Array.Sort(people);
+string horizontalLine = new(c:'-', count: 80);
+WriteLine($"{horizontalLine}");
+
+OutputPeopleNames(people, "After Sorting using Person's IComparable implementation");
+
+WriteLine($"{horizontalLine}");
+Array.Sort(people, new PersonComparer());
+OutputPeopleNames(people, "After sorting using PersonComparer's IComparer implementation:");
