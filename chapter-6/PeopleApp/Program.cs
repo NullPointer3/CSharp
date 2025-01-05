@@ -56,7 +56,7 @@ WriteLine(format: "Key {0} has value {1}", arg0: key, arg1: lookupObject[key]);
 WriteLine(format: "Key {0} has value {1}", arg0: harry, arg1: lookupObject[harry]);
 
 // Define a generic lookup collection
-Dictionary<int, string> lookupIntString = new();
+Dictionary<int, string> lookupIntString = [];
 lookupIntString.Add(key: 1, value: "Alpha");
 lookupIntString.Add(key: 2, value: "Beta");
 lookupIntString.Add(key: 3, value: "Gamma");
